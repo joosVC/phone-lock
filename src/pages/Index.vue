@@ -5,7 +5,7 @@
       src="~assets/quasar-logo-vertical.svg"
       style="width: 200px; height: 200px"
     >
-    Hallo LOVV, Phone-lock hier! dsfsdf
+    Hallo LOVV, Phone-lock hier
   </q-page>
 </template>
 
